@@ -12,7 +12,7 @@ root.render(
       maxRating={5}
       // message={["Terrible", "Bad", "Okay", "Good", "Amazing"]}
     /> */}
-    {/* <StarRating maxRating={10} size={24}  defaultRating={3}/> */}
-    {/* <StarRating /> */}
+    
+   
   </React.StrictMode>
 );
